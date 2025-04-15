@@ -7,6 +7,9 @@ library(ggplot2)
 # Set seed for reproducibility
 set.seed(42)
 
+# Steve: Hello
+var1 <- "new var"
+
 # Generate random data
 n <- 100
 x <- rnorm(n)
