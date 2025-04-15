@@ -50,9 +50,7 @@ for (i in 1:6) {
 
 
 summary(iris)
-
 mean(iris$Petal.Width)
-
 
 # Print the plot
 print(p)
