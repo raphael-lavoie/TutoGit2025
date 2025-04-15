@@ -51,7 +51,7 @@ for (i in 1:6) {
 
 summary(iris)
 
-mean(iris$Sepal.Width)
+mean(iris$Sepal.Length)
 
 # Print the plot
 print(p)
