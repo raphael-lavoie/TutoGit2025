@@ -45,6 +45,11 @@ for (i in 1:6) {
                      color = "darkgreen", size = 4, vjust = -1)
 }
 
+
+summary(iris)
+
+
+
 # Print the plot
 print(p)
 
